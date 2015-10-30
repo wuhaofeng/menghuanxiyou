@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "66476075-7ebe-4a24-bb64-2fe70a4387c2" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "66476075-7ebe-4a24-bb64-2fe70a4387c2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E039572C-1943-43DF-9569-2A4F9A114CFC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "66476075-7ebe-4a24-bb64-2fe70a4387c2" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "demo6—梦幻西游",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "demo6—梦幻西游\/demo6—梦幻西游.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/www.svnchina.com\/svn\/gili_123",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "66476075-7ebe-4a24-bb64-2fe70a4387c2"
+    }
+  ]
+}
